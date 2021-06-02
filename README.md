@@ -1,3 +1,1 @@
-<B/>Pose Estimation<|B>
-  
-  
+<b>Pose Estimation</b>
