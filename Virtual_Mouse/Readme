@@ -1,1 +1,6 @@
+envs drive link: https://drive.google.com/file/d/1-bN44jcsBKbzkondKIUTFSvUYkrDJJU0/view?usp=sharing
 
+
+Complete Envs can zip into the venv folder in Drive 
+
+Some error will occur in upper version of python==3.8 beasuce of changing the buffer envs in python will resolve using this above lib 
