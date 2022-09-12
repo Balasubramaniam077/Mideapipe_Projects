@@ -1,0 +1,5 @@
+mediapipe 0.8.11
+time 0.3.0
+opencv-python 4.5.4.60
+autopy 4.0.0
+numpy 1.23.3
